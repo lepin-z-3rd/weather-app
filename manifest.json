@@ -2,7 +2,7 @@
   "name": "広尾の天気情報",
   "short_name": "広尾天気",
   "description": "東京・広尾のリアルタイムの天気と予報を表示するPWAです。",
-  "start_url": "./hiroo_weather.html",
+  "start_url": "/weather-app/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4CAF50",
